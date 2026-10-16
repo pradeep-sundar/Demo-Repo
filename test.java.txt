@@ -1,4 +1,4 @@
 class empty
 {
-delete all;
+int a=12;
 }
