@@ -1,0 +1,4 @@
+class empty
+{
+delete all;
+}
